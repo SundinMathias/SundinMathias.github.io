@@ -37,3 +37,10 @@ canvas{
     font-weight: bolder;
    
 }
+
+p {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
