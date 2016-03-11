@@ -1,0 +1,39 @@
+body {
+    background-color: #1d5b7a;
+}
+
+#content{
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+canvas{
+    border: solid 2px white;
+    
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#textHolder{
+    color: lightblue;
+    width: 450px;
+    position: absolute;
+    left: 35%;
+    top: 5%;
+    
+    
+}
+#textHolderSpeed{
+    color: white;
+    font-weight: bolder;
+    
+}
+
+#textHolderScore{
+    color: white;
+    font-weight: bolder;
+   
+}
